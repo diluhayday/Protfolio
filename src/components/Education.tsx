@@ -27,14 +27,14 @@ export default function Education() {
             initial={{ width: 0 }}
             whileInView={{ width: "48px" }}
             viewport={{ once: true }}
-            transition={{ duration: 0.6, delay: 0.2 }}
+            transition={{ duration: 0.3, delay: 0 }}
             className="h-1 bg-gradient-to-r from-[#7C3AED] to-[#00E5FF] rounded-full mb-4"
           />
           <motion.p
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
-            transition={{ duration: 0.5, delay: 0.3 }}
+            transition={{ duration: 0.3, delay: 0 }}
             className="font-sans text-sm md:text-base text-[#9CA3AF] max-w-lg leading-relaxed font-normal"
           >
             A timeline of academic qualifications and core foundation in engineering and technology.
