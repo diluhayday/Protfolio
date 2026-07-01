@@ -33,7 +33,7 @@ export default function Hero({ onContactClick, onWorkClick }: HeroProps) {
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.7, delay: 0.1 }}
+            transition={{ duration: 0.3, delay: 0 }}
             className="font-sans font-extrabold tracking-tight text-white text-3xl sm:text-4xl lg:text-5xl xl:text-6xl mb-6 leading-[1.15]"
           >
             Empowering Education <br />
@@ -57,7 +57,7 @@ export default function Hero({ onContactClick, onWorkClick }: HeroProps) {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.7, delay: 0.3 }}
+            transition={{ duration: 0.3, delay: 0 }}
             className="flex flex-wrap gap-4 items-center"
           >
             {/* View My Work Button */}
