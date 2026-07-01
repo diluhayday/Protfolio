@@ -47,7 +47,7 @@ export default function Hero({ onContactClick, onWorkClick }: HeroProps) {
           <motion.p
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.7, delay: 0.2 }}
+            transition={{ duration: 0.3, delay: 0 }}
             className="font-sans text-sm md:text-base text-[#9CA3AF] mb-8 max-w-xl leading-relaxed font-normal"
           >
             I'm a Computer Science Engineer, Lecturer, and Flutter Developer passionate about building impactful digital solutions while shaping the next generation of technology professionals. I combine technical expertise, teaching excellence, and leadership to deliver meaningful results in both academia and software development.
