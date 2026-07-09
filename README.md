@@ -122,7 +122,7 @@ npm run preview
 
 ## 👨‍💻 About Me
 
-I'm **Yagnesh Vaghela**, a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy creating elegant interfaces with smooth animations while focusing on performance and accessibility.
+I'm **Vekariya Dilip**, a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy creating elegant interfaces with smooth animations while focusing on performance and accessibility.
 
 ---
 
