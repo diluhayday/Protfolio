@@ -1,20 +1,178 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 💼 Yagnesh Vaghela - Portfolio Website
 
-# Run and deploy your AI Studio app
+A modern, responsive, and animated personal portfolio built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. The website showcases my professional experience, technical skills, education, projects, and contact information with a premium UI/UX.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/f2ce293c-19ea-4d2c-a5ce-11976a36f98d
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+## 🌐 Live Demo
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+https://vekariyadilip.pages.com
+
+## ✨ Features
+
+* 🎨 Modern Glassmorphism UI
+* ⚡ Lightning-fast Vite build
+* 📱 Fully Responsive Design
+* 🎭 Smooth Framer Motion Animations
+* 🌌 Animated Background Effects
+* 📌 Sticky Navigation with Active Section Highlight
+* 📄 Resume Download
+* 🛠 Skills Showcase
+* 🎓 Education Timeline
+* 💼 Professional Experience
+* 🚀 Featured Projects
+* 📬 Contact Section
+* 🔥 Optimized Performance
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* React 19
+* TypeScript
+* Vite
+* Tailwind CSS
+* Motion (Framer Motion)
+
+### Icons
+
+* Lucide React
+
+### Tools
+
+* npm
+* Git
+* VS Code
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+│
+├── assets/
+│   ├── images/
+│   └── Resume.pdf
+│
+├── components/
+│   ├── About
+│   ├── Background
+│   ├── Contact
+│   ├── Education
+│   ├── Experience
+│   ├── Footer
+│   ├── Hero
+│   ├── Navbar
+│   ├── Projects
+│   ├── Skills
+│   └── Spotlight
+│
+├── App.tsx
+└── main.tsx
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/portfolio.git
+```
+
+### Navigate to the Project
+
+```bash
+cd portfolio
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+The application will run on:
+
+```
+http://localhost:3000
+```
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+Preview the production build:
+
+```bash
+npm run preview
+```
+
+---
+
+## 📸 Portfolio Sections
+
+* Hero
+* About Me
+* Technical Skills
+* Education
+* Experience
+* Projects
+* Contact
+* Footer
+
+---
+
+## 🎯 Future Improvements
+
+* Blog Section
+* Dark / Light Theme Toggle
+* Project Filtering
+* Project Detail Pages
+* Testimonials
+* Multi-language Support
+* Analytics Integration
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Yagnesh Vaghela**, a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy creating elegant interfaces with smooth animations while focusing on performance and accessibility.
+
+---
+
+## 📫 Contact
+
+Feel free to connect for collaborations, freelance opportunities, or professional discussions.
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **Star ⭐** on GitHub.
+
+---
+
+## 📄 License
+
+This project is available for personal portfolio use. Please do not copy the content or branding without permission.
+
+---
+
+### Made with ❤️ by Yagnesh Vaghela
+
