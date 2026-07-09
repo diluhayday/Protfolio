@@ -77,37 +77,7 @@ src/
 
 ---
 
-## 🚀 Getting Started
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/portfolio.git
-```
-
-### Navigate to the Project
-
-```bash
-cd portfolio
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Start Development Server
-
-```bash
-npm run dev
-```
-
-The application will run on:
-
-```
-http://localhost:3000
-```
 
 ---
 
