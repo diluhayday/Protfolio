@@ -1,4 +1,4 @@
-# 💼 Yagnesh Vaghela - Portfolio Website
+# 💼 Vekariya Dilip - Portfolio Website
 
 A modern, responsive, and animated personal portfolio built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. The website showcases my professional experience, technical skills, education, projects, and contact information with a premium UI/UX.
 
@@ -174,5 +174,5 @@ This project is available for personal portfolio use. Please do not copy the con
 
 ---
 
-### Made with ❤️ by Yagnesh Vaghela
+### Made with ❤️ by Vekariya Dilip
 
