@@ -10,7 +10,7 @@ interface HeroProps {
 }
 
 export default function Hero({ onContactClick, onWorkClick }: HeroProps) {
-  const profileImgPath = new URL("../assets/images/passport_size.jpg", import.meta.url).href;
+  const profileImgPath = new URL("../assets/images/passport_size1.png", import.meta.url).href;
 
   return (
     <section id="hero" className="relative min-h-screen flex items-center justify-center pt-28 pb-16 overflow-hidden">
